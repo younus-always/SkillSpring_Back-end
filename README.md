@@ -6,7 +6,7 @@ The **SkillSpring Backend** is a robust and scalable server built using **Node.j
 
 ---
 
-## 🌐 **Live API**  
+## 🌐 **Live Link**  
 
 🔗 **Backend Live Server:** [SkillSpring API](https://skill-spring-server.vercel.app/)  
 🔗 **Fronend Repository:** [SkillSpring Frontend](https://github.com/younus-always/SkillSpring_Front-end)  
